@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_hesaplarim"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Hesaplarım" />
+        <item
+            android:id="@+id/nav_kartlarim"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Kartlarım" />
+        <item
+            android:id="@+id/nav_odemeyap"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Ödeme Yap" />
+        <item
+            android:id="@+id/nav_qrolustur"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="QR Oluşturucu" />
+    </group>
+
+
+
+</menu>

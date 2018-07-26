@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "785151086769",
+    "firebase_url": "https://eakbil-master.firebaseio.com",
+    "project_id": "eakbil-master",
+    "storage_bucket": "eakbil-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785151086769:android:41b33e0069f7ca18",
+        "android_client_info": {
+          "package_name": "com.burakod.e_akbil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785151086769-l7k5haijupjstce1d8omjflr98vcctmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.burakod.e_akbil",
+            "certificate_hash": "e364664b8ad67490c87db4c73529347a81ec7bf9"
+          }
+        },
+        {
+          "client_id": "785151086769-r03t6275ruqrglld38md8m6rsm7rtl8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD8xAdRnZT8GXmXL0faydM0CsuEk04I-4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785151086769-r03t6275ruqrglld38md8m6rsm7rtl8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
